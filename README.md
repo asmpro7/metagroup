@@ -64,4 +64,3 @@ plot(meaning_results)
 ## License
 
 This package is licensed under the GPL-3 License.
-```
