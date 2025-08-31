@@ -1,6 +1,6 @@
 # metagroup 
 
-An R package to create and explore Meaningful Grouping of Studies in Meta-Analysis.
+Meaningful Grouping of Studies in Meta-Analysis
 
 ---
 
