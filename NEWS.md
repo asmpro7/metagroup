@@ -1,3 +1,7 @@
+# metagroup 1.0.1
+* Remove LICENSE from the package
+
+
 # metagroup 1.0.0
 
 * Initial public release of the `metagroup` package. 
