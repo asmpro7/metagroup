@@ -19,7 +19,7 @@ Description: Provides a suite of tools to perform meaningful subgrouping in a
     characteristics (e.g., country, setting). This approach helps to
     uncover hidden structures in meta-analytic data and provide a deeper
     interpretation of heterogeneity.
-License: GPL (>= 3)
+License: GPL (>= 3) + file LICENSE
 Encoding: UTF-8
 Imports: 
     dplyr,
