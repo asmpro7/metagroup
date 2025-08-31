@@ -22,7 +22,7 @@
 #' within-group heterogeneity. If no suitable group is found, a new one is created.
 #'
 #' @return A list containing the final data with subgroup assignments (`data`),
-#' the final `metacont` model (`model`), and the number of attempts (`attemps`).
+#' the final `metacont` model (`model`), and the number of attempts (`attempts`).
 #'
 #' @importFrom meta metacont
 #'
@@ -102,5 +102,5 @@ mgcont <- function(data,
     ...
   )
 
-  list(data = data, model = final_model, attemps = numberOfAtemps)
+  list(data = data, model = final_model, attempts = numberOfAtemps)
 }

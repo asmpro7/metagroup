@@ -27,7 +27,7 @@ mgcont(data, n.e, mean.e, sd.e, n.c, mean.c, sd.c, studlab, ...)
 }
 \value{
 A list containing the final data with subgroup assignments (`data`),
-the final `metacont` model (`model`), and the number of attempts (`attemps`).
+the final `metacont` model (`model`), and the number of attempts (`attempts`).
 }
 \description{
 This function iteratively assigns studies to subgroups based on a homogeneity

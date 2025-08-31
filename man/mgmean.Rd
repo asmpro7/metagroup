@@ -21,7 +21,7 @@ mgmean(data, mean, sd, n, studlab, ...)
 }
 \value{
 A list containing the final data with subgroup assignments (`data`),
-the final `metamean` model (`model`), and the number of attempts (`attemps`).
+the final `metamean` model (`model`), and the number of attempts (`attempts`).
 }
 \description{
 This function iteratively assigns studies to subgroups based on a homogeneity
