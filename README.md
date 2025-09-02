@@ -1,8 +1,8 @@
-# metagroup 
-
-Meaningful Grouping of Studies in Meta-Analysis
-
----
+<p align="center">
+  <h1 align="center"> metagroup </h1>
+ <p align="center"> <img src="https://github.com/user-attachments/assets/218b27ff-9359-4b59-952d-ea91cf661fb1" data-canonical-src="https://github.com/user-attachments/assets/218b27ff-9359-4b59-952d-ea91cf661fb1" width="300" height="300" /><p>
+<h2 align="center" id="MetaDesc">Meaningful Grouping of Studies in Meta-Analysis</h2>
+</p>
 
 ## Overview
 
