@@ -1,4 +1,12 @@
+# metagroup 1.0.2
+
+* Maintenance release to address feedback from CRAN review.
+* Polished the `DESCRIPTION` file by refining the description text and adding parentheses `()` to all function names.
+* Added a detailed `\value` section to the documentation for the `print()` and `plot()` methods to clarify their return values and side effects.
+
+
 # metagroup 1.0.1
+
 * Remove LICENSE from the package
 
 

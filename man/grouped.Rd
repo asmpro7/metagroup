@@ -15,6 +15,15 @@
 
 \item{...}{Additional arguments (currently unused).}
 }
+\value{
+The `print` method is called for its side-effect of printing a summary
+table to the console.
+
+The `plot` method is called for its side-effect of generating a faceted
+bar chart in the current graphics device.
+
+Both methods invisibly return the original object `x`.
+}
 \description{
 S3 methods for objects of class `grouped` returned by the `meaning()` function.
 \itemize{

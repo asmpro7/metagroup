@@ -10,6 +10,15 @@
 #' @param x An object of class `grouped`.
 #' @param ... Additional arguments (currently unused).
 #'
+#' @return
+#' The `print` method is called for its side-effect of printing a summary
+#' table to the console.
+#'
+#' The `plot` method is called for its side-effect of generating a faceted
+#' bar chart in the current graphics device.
+#'
+#' Both methods invisibly return the original object `x`.
+#'
 #' @importFrom dplyr group_by summarise first
 #' @importFrom ggplot2 ggplot aes geom_col geom_text facet_wrap labs theme_minimal theme element_text
 #' @importFrom rlang .data

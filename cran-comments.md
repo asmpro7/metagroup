@@ -1,10 +1,11 @@
-## CRAN Resubmission for metagroup 1.0.1
+## CRAN Resubmission for metagroup 1.0.2
 
 This is a resubmission.
 
 In response to reviewer feedback, I have made the following changes:
-* The `License:` field in the DESCRIPTION file has been changed from `GPL-3 + file LICENSE` to `GPL (>= 3)`.
-* The redundant `LICENSE` file has been added to `.Rbuildignore` so they are present on GitHub but not in the CRAN package bundle.
+* The `DESCRIPTION` file has been updated to remove redundant phrasing and to format function names with `()`.
+* A detailed `@return` value section has been added to the documentation for the `grouped.Rd` help file, as requested.
+* Regarding the suggestion to add references, none are included at this time as the package implements a novel methodological approach.
 
 ---
-Thank you for your time and consideration.
+Thank you again for your time and consideration.
