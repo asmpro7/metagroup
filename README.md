@@ -1,6 +1,42 @@
 <p align="center">
   <h1 align="center"> metagroup </h1>
- <p align="center"> <img src="https://github.com/user-attachments/assets/218b27ff-9359-4b59-952d-ea91cf661fb1" data-canonical-src="https://github.com/user-attachments/assets/218b27ff-9359-4b59-952d-ea91cf661fb1" width="300" height="300" /><p>
+ <p align="center"> <img src="https://github.com/user-attachments/assets/218b27ff-9359-4b59-952d-ea91cf661fb1" data-canonical-src="https://github.com/user-attachments/assets/218b27ff-9359-4b59-952d-ea91cf661fb1" width="300" height="300" />
+<p align="center">
+  <!-- CRAN version -->
+  <a href="https://CRAN.R-project.org/package=metagroup">
+    <img src="https://www.r-pkg.org/badges/version/metagroup" alt="CRAN version"/>
+  </a>
+  
+  <!-- CRAN checks -->
+  <a href="https://cran.r-project.org/web/checks/check_results_metagroup.html">
+    <img src="https://badges.cranchecks.info/worst/metagroup.svg" alt="CRAN checks"/>
+  </a>
+  
+  <!-- CRAN downloads -->
+  <a href="https://CRAN.R-project.org/package=metagroup">
+    <img src="https://cranlogs.r-pkg.org/badges/metagroup" alt="CRAN downloads"/>
+  </a>
+  <a href="https://CRAN.R-project.org/package=metagroup">
+    <img src="https://cranlogs.r-pkg.org/badges/grand-total/metagroup" alt="CRAN total downloads"/>
+  </a>
+  
+  <!-- Lifecycle -->
+  <a href="https://lifecycle.r-lib.org/articles/stages.html">
+    <img src="https://img.shields.io/badge/lifecycle-stable-brightgreen.svg" alt="lifecycle"/>
+  </a>
+  
+  <!-- License -->
+  <a href="LICENSE">
+    <img src="https://img.shields.io/cran/l/metagroup" alt="License"/>
+  </a>
+  
+  <!-- DOI -->
+  <a href="https://doi.org/10.32614/CRAN.package.metagroup">
+    <img src="https://zenodo.org/badge/DOI/10.32614/CRAN.package.metagroup.svg" alt="DOI"/>
+  </a>
+</p>
+
+<p>
 <h2 align="center" id="MetaDesc">Meaningful Grouping of Studies in Meta-Analysis</h2>
 </p>
 
@@ -66,7 +102,3 @@ plot(meaning_results)
 ```
 
 ---
-
-## License
-
-This package is licensed under the GPL-3 License.
