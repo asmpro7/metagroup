@@ -12,17 +12,17 @@
     <img src="https://badges.cranchecks.info/worst/metagroup.svg" alt="CRAN checks"/>
   </a>
   
+  <!-- Lifecycle -->
+  <a href="https://lifecycle.r-lib.org/articles/stages.html">
+    <img src="https://img.shields.io/badge/lifecycle-stable-brightgreen.svg" alt="lifecycle"/>
+  </a>
+
   <!-- CRAN downloads -->
   <a href="https://CRAN.R-project.org/package=metagroup">
     <img src="https://cranlogs.r-pkg.org/badges/metagroup" alt="CRAN downloads"/>
   </a>
   <a href="https://CRAN.R-project.org/package=metagroup">
     <img src="https://cranlogs.r-pkg.org/badges/grand-total/metagroup" alt="CRAN total downloads"/>
-  </a>
-  
-  <!-- Lifecycle -->
-  <a href="https://lifecycle.r-lib.org/articles/stages.html">
-    <img src="https://img.shields.io/badge/lifecycle-stable-brightgreen.svg" alt="lifecycle"/>
   </a>
   
   <!-- License -->
