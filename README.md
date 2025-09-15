@@ -17,6 +17,12 @@ This approach helps to provide a deeper, more data-driven interpretation of hete
 
 ## Installation
 
+You can install the stable version of `metagroup` from CRAN with:
+
+```r
+install.packages("metagroup")
+```
+
 You can install the development version of `metagroup` from GitHub with:
 
 ```r
